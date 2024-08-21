@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQLiteApp</string>
+<string name="add_button_description">Agregar nuevo</string>
+</resources>
